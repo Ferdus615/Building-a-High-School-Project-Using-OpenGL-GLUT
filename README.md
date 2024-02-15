@@ -19,10 +19,13 @@ I have created a High School Building &amp; its surrounding environment using Op
 3. Now run the program or you can run the executable.
 
 # Navigation
-1. Forward = 1
-2. Back = 2
+1. Forward = 2
+2. Back = 1
 3. Move Up = W
 4. Move Down = S
 5. Move Left = A
 6. Move Right = D
-7. 
+7. Look Up = I
+8. Look Down = K
+9. Look Left = J
+10. Look Right = L
